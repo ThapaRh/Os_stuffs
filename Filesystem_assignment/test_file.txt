@@ -1,0 +1,29 @@
+NUMblock = total block
+block size = size of block
+num_files = total_files
+max_file size = size file
+fd = file
+
+Directory entry = Folder_ent
+
+valid = val
+filename = file
+attributes = values
+size = len
+blocks = t_blok
+dir = folder
+inodes = inn
+free block list = free_block
+free indode list = free_inn
+df = remaining_space
+free space = space_available
+find directory entry = folder_ent
+findfreenode = free_inode_locate
+findFreeBlock = locate_block
+buf = ffn
+ret = val
+directory Index = index_folder
+innodeindex = index_inn 
+bytes = block
+statu = control
+num_bytes = total_byte 
